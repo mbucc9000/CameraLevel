@@ -1,0 +1,9 @@
+Package: com.mbucc9000.cameralevel
+Name: CameraLevel
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Adds the level from newer iPhones to the Camera grid. A line in the middle of the preview tilts as you tilt the phone and turns yellow when the shot is perfectly level. Shows whenever Grid is on.
+Author: mbucc9000
+Maintainer: mbucc9000
+Section: Tweaks
+Depends: mobilesubstrate
